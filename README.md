@@ -1,6 +1,6 @@
-# CPSC 310 Project Repository
+# Software Engineering Term Project Repository
 
-A copy of my CPSC 310 Term Project:
+A copy of my Software Engineering Course Term Project:
 
 UI located in /frontend
 
